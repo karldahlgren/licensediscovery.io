@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   <span>
     <img src="https://licensediscovery.io/static/media/logo.dc524748.svg" height="60" width="60"/> LicenseDiscovery
   </span>.io
