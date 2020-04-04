@@ -4,7 +4,11 @@
   </span>.io
 </h1>
 
-<a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
+<p align="center">
+  <a href="https://licensediscovery.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flicensediscovery.io%2F"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
+</p>
+
 
 [**LicenseDiscovery.io**](https://www.licensediscovery.io/) is a webpage for discovering which license a Java dependency and its transitive dependencies are licensed under. The purpose of the webpage is to mainly help developers to get a better understanding of their dependencies and get a complete picture of what is include when depending on a Java dependency.
 
