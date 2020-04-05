@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://licensediscovery.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flicensediscovery.io%2F"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
+  <a href="https://licensediscovery.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flicensediscovery.io%2F"/></a>
+  <a href="https://observatory.mozilla.org/analyze/licensediscovery.io"><img src="https://img.shields.io/mozilla-observatory/grade/licensediscovery.io?publish"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"/></a>
 </p>
 
 
