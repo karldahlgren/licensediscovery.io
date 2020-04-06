@@ -8,6 +8,7 @@
   <a href="https://licensediscovery.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flicensediscovery.io%2F"/></a>
   <a href="https://observatory.mozilla.org/analyze/licensediscovery.io"><img src="https://img.shields.io/mozilla-observatory/grade/licensediscovery.io?publish"/></a>
     <a href="https://securityheaders.com/?q=https%3A%2F%2Flicensediscovery.io"><img src="https://img.shields.io/security-headers?color=bright-green&url=https%3A%2F%2Flicensediscovery.io%2F"/></a>
+    <a href="https://licensediscovery.io/"><img src="https://img.shields.io/hsts/preload/licensediscovery.io"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"/></a>
 </p>
 
