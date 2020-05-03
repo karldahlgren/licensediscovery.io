@@ -17,6 +17,16 @@
 
 The webpage **LicenseDiscovery.io** is **not** open-source and its source code is not public. However, this repository can contain open-sourced common libraries developed and used by **LicenseDiscovery.io**. The repository can also contain examples and documentation related to **LicenseDiscovery.io**.
 
+Table Of Content
+----
+
+- [How to use it](#how-to-use-it)
+   - [Supported formats](#supported-formats)
+- [Technology](#technology)
+   - [Backend](#backend)
+   - [Frontend](#frontend)
+- [License](#license)
+
 ## How to use it
 Go to https://licensediscovery.io and search for your dependencies.
 
