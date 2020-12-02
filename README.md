@@ -18,7 +18,9 @@
 The webpage **LicenseDiscovery.io** is **not** open-source and its source code is not public. However, this repository can contain open-sourced common libraries developed and used by **LicenseDiscovery.io**. The repository can also contain examples and documentation related to **LicenseDiscovery.io**.
 
 
-<img src="https://raw.githubusercontent.com/karldahlgren/licensediscovery.io/main/img/preview.gif" width="50%"/>
+<p align="center">
+  <img src="https://github.com/karldahlgren/licensediscovery.io/blob/master/img/preview.gif" width="85%"/>
+</p>
 
 Table Of Content
 ----
