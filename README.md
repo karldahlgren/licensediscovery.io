@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>
-    <img src="https://licensediscovery.io/static/media/logo.dc524748.svg" height="60" width="60"/> LicenseDiscovery.io
+    <img src="https://licensediscovery.io/static/media/logo.svg" height="60" width="60"/> LicenseDiscovery.io
   </span>
 </h1>
 
